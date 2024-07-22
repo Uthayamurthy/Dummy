@@ -1,1 +1,1 @@
-Hello, This is Dummy-1.0.0-beta.3
+Hello, This is Dummy-1.0.0
